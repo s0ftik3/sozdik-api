@@ -1,0 +1,6 @@
+{
+    "0": "WRONG_TYPE: Source and target languages must be strings.",
+    "1": "UNSUPPORTED_LANGUAGE: You passed an unsupported language as a source or target language. Russian and Kazakh are only supported.",
+    "2": "EMPTY_RESPONSE: the API did not return any translation.",
+    "3": "UNEXPECTED_ERROR: Something went wrong, please try again or contact the author."
+}
